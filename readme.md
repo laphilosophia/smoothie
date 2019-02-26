@@ -23,3 +23,4 @@ tiny (1KB), simple, bla bla plugin for smooth scroll stuffs.
 
     _scroll.scrollBy()
 ````
+
