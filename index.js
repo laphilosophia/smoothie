@@ -1,7 +1,7 @@
 // @author Erdem Arslan
 // tiny smoothscroll plugin
 
-const smoothie = options => {
+const smoothie = arg => {
     let isSmoothScrollSupported = 'scrollBehavior' in document.documentElement.style
 
     if (!isSmoothScrollSupported) {
